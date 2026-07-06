@@ -1,19 +1,42 @@
 # Hi, I'm Elisheva Kusayeva 👋
 
-I am a Business Analytics and Accounting student at Hofstra University, specializing in quantitative modeling and data-driven financial research. 
+I am a Business Analytics and Accounting student at Hofstra University's Honors College, specializing in quantitative modeling, statistical risk analytics, and algorithmic financial frameworks. 
 
 ### 📈 What I'm Focused On
-- Bridging accounting precision with algorithmic financial frameworks.
-- Developing quantitative asset allocation models and time-series risk forecasting.
-- Independent coursework in Advanced Linear Algebra (MIT 18.06) and Probability Theory (Harvard Stat 110).
+- **Financial Engineering:** Bridging accounting precision and market theory with systematic coding infrastructure.
+- **Quantitative Modeling:** Building backtesters and evaluating rolling financial time-series metrics.
+- **Rigorous Independent Study:** Actively self-studying advanced mathematics, including Linear Algebra (MIT 18.06) and Probability Theory (Harvard Stat 110) to prepare for quantitative graduate work.
 
 ### 🛠️ Technical Toolkit
-- **Languages:** Python, R, SQL
-- **Frameworks/Libraries:** NumPy, Pandas, yFinance, Matplotlib
-- **Business Skills:** Financial Modeling, Business Analytics, Tax Compliance (IRS-VITA)
+- **Programming & Data Science:** Python, R, SQL, Tableau
+- **Quantitative Finance Concepts:** Modern Portfolio Theory, Rolling Historical Volatility, Moving Average Crossover Frameworks
+- **Core Business Domain:** Financial Management, Advanced Accounting Systems (Digital Accounting Tech), Tax Compliance
 
-### 📁 Featured Projects
-- [Quantitative Portfolio Optimizer](https://github.com/your-username/Quant-Portfolio-Optimizer) - Utilizing matrix multiplication to optimize asset allocations based on the Sharpe Ratio.
+---
+
+## 📁 Featured Quantitative Projects
+
+### 1. [Quantitative Portfolio Optimizer](https://github.com/YOUR-USERNAME-HERE/Quant-Portfolio-Optimizer)
+An analytics environment utilizing matrix math (Linear Algebra) to compound historical multi-asset data, map an annualized covariance matrix, and find the optimal asset weightings maximizing the portfolio's Sharpe Ratio.
+- **Skills:** Python, Pandas, NumPy, Matrix Multiplication
+
+### 2. [Financial Time-Series Forecasting](https://github.com/YOUR-USERNAME-HERE/Financial-Time-Series-Forecasting)
+A data analytics script focusing on dynamic risk estimation. The script processes raw historical price changes into log returns and applies a rolling 21-day standard deviation window to track changing asset volatility.
+- **Skills:** Statistical Estimation, Data Cleaning, Volatility Mapping
+
+### 3. [Algorithmic Backtester](https://github.com/YOUR-USERNAME-HERE/Algorithmic-Backtester)
+An algorithmic execution simulation environment testing a rule-based moving average crossover strategy (50-day vs. 200-day Simple Moving Average) over a multi-year horizon to benchmark alpha production and drawdowns against a passive market index.
+- **Skills:** Execution Logic, Strategy Analysis, Benchmark Backtesting
+
+---
+
+### 🏛️ Leadership & Involvement Highlights
+- **President / Vice President**, Financial Management Association
+- **President**, Hofstra University Tax Society (Coordinated 70 volunteers / 600+ IRS-VITA returns)
+- **Junior Analyst**, Student Managed Investment Fund
+- **Member**, Rabinowitz Honors College & Dean's Business Scholars
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/elisheva-k-60336b31b) | 📧 swissmoney00@gmail.com
 
 <!--
 **ElishevaK-00/ElishevaK-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
