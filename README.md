@@ -36,7 +36,7 @@ An algorithmic execution simulation environment testing a rule-based moving aver
 - **Junior Analyst**, Student Managed Investment Fund
 - **Member**, Rabinowitz Honors College & Dean's Business Scholars
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/elisheva-k-60336b31b) | 📧 swissmoney00@gmail.com
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/elisheva-k-60336b31b)
 
 <!--
 **ElishevaK-00/ElishevaK-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
