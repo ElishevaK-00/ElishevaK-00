@@ -1,6 +1,6 @@
 # Hi, I'm Elisheva Kusayeva 👋
 
-"I am an Honors College student at Hofstra University’s Zarb School of Business, pursuing a dual major in Business Analytics and Accounting, minoring in Finance. Driven by the intersection of financial theory and data science, I am actively pairing my business acumen with advanced statistical estimation, quantitative modeling, and algorithmic frameworks to prepare for graduate-level financial engineering. 
+"I am an Honors College student at Hofstra University’s Zarb School of Business, pursuing a dual major in Business Analytics and Accounting, minoring in Finance. Driven by the intersection of financial theory and data science, I am actively pairing my business acumen with advanced statistical estimation, quantitative modeling, and algorithmic frameworks to prepare for graduate-level financial engineering.
 
 ### 📈 What I'm Focused On
 - **Financial Engineering:** Bridging accounting precision and market theory with systematic coding infrastructure.
