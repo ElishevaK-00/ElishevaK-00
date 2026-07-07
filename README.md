@@ -1,46 +1,55 @@
 # Hi, I'm Elisheva Kusayeva 👋
 
-I am an Honors College student at Hofstra University’s Zarb School of Business, pursuing a dual major in Business Analytics and Accounting, minoring in Finance. Driven by the intersection of financial theory and data science, I am actively pairing my business acumen with advanced statistical estimation, quantitative modeling, and algorithmic frameworks to prepare for graduate-level financial engineering.
+I am an Honors College student at Hofstra University’s Zarb School of Business, pursuing a dual major in Business Analytics and Accounting, minoring in Finance (Cumulative GPA: 3.96 | Major GPA: 4.0). Driven by the execution logic of empirical asset pricing, market microstructure, and systematic risk distribution, I am actively pairing my rigorous business acumen with advanced statistical estimation, quantitative modeling, and algorithmic frameworks to prepare for graduate-level work in quantitative finance.
 
-### 📈 What I'm Focused On
-- **Financial Engineering:** Bridging accounting precision and market theory with systematic coding infrastructure.
-- **Quantitative Modeling:** Building backtesters and evaluating rolling financial time-series metrics.
-- **Rigorous Independent Study:** Actively self-studying advanced mathematics, including Linear Algebra (MIT 18.06) and Probability Theory (Harvard Stat 110) to prepare for quantitative graduate work.
+🌐 **Professional Hub:** [Explore My Live Portfolio Website Dashboard](https://elishevak-00.github.io/)
+
+---
+
+### 📈 Core Quantitative Focus Areas
+- **Quantitative Trading & Strategy:** Designing rule-based signal layers, backtesting anomalies, and analyzing strategy alpha production.
+- **Geospatial Analytics:** Translating infrastructure vulnerabilities and policy tiers into parametric coordinate datasets.
+- **Mathematical Foundations:** Actively self-studying advanced university mathematics, including Linear Algebra (MIT 18.06 framework) and Probability Theory (Harvard Stat 110 baseline).
+
+---
 
 ### 🛠️ Technical Toolkit
-- **Programming & Data Science:** Python, R, SQL, Tableau
-- **Quantitative Finance Concepts:** Modern Portfolio Theory, Rolling Historical Volatility, Moving Average Crossover Frameworks
-- **Core Business Domain:** Financial Management, Advanced Accounting Systems (Digital Accounting Tech), Tax Compliance
+- **Languages & Scripting:** Python (Pandas, NumPy), R, SQL, HTML5, CSS3, JavaScript (Leaflet.js)
+- **Quantitative Finance Concepts:** Modern Portfolio Theory (MPT), Sharpe Ratio Optimization, Rolling Time-Series Volatility, Simple Moving Average (SMA) Crossover Engines
+- **Business Domain & Infrastructure:** Corporate Valuation Systems, Data Integrity Systems, Advanced Accounting Metrics, Tax Compliance Analytics
 
 ---
 
-## 📁 Featured Quantitative Projects
+### 📁 Featured Engineering Deployments
 
-### 1. [Quantitative Portfolio Optimizer](https://github.com/ElishevaK-00/Quant-Portfolio-Optimizer)
-An analytics environment utilizing matrix math (Linear Algebra) to compound historical multi-asset data, map an annualized covariance matrix, and find the optimal asset weightings maximizing the portfolio's Sharpe Ratio.
-- **Skills:** Python, Pandas, NumPy, Matrix Multiplication
+#### 1. [Quantitative Portfolio Optimizer](https://github.com/elishevak-00/Quant-Portfolio-Optimizer)
+An analytics engine utilizing matrix operations (Linear Algebra) to process historical multi-asset data vectors, calculate a rolling annualized covariance matrix, and locate optimal weight parameters maximizing a portfolio's Sharpe Ratio.
+- **Skills:** Python, Pandas, NumPy, Empirical Optimization Metrics, Matrix Multiplication
 
-### 2. [Financial Time-Series Forecasting](https://github.com/ElishevaK-00/Financial-Time-Series-Forecasting)
-A data analytics script focusing on dynamic risk estimation. The script processes raw historical price changes into log returns and applies a rolling 21-day standard deviation window to track changing asset volatility.
-- **Skills:** Statistical Estimation, Data Cleaning, Volatility Mapping
+#### 2. [Global Cyber Incident Map (Live Interactive Dashboard)](https://elishevak-00.github.io/Global-Cyber-Incident-Map/)
+A live-hosted geospatial intelligence application transforming raw infrastructure threat data and legal tiers into an active visual mapping engine. Features dynamic, color-coded parametric markers tracking geopolitical cyber events.
+- **Skills:** Spatial Data Analytics, Data Modeling, Front-End Web Deployment, Leaflet.js
 
-### 3. [Algorithmic Backtester](https://github.com/ElishevaK-00/Algorithmic-Backtester)
-An algorithmic execution simulation environment testing a rule-based moving average crossover strategy (50-day vs. 200-day Simple Moving Average) over a multi-year horizon to benchmark alpha production and drawdowns against a passive market index.
-- **Skills:** Execution Logic, Strategy Analysis, Benchmark Backtesting
+#### 3. [Financial Time-Series Forecasting](https://github.com/elishevak-00/Financial-Time-Series-Forecasting)
+A data analytics script focusing on dynamic risk estimation. Processes raw historical asset pricing into continuous log returns and applies a moving 21-day standard deviation window to track changing asset volatilities.
+- **Skills:** Statistical Estimation, Data Wrangling, Volatility Mapping, Pandas
 
-### 4. [Global Cyber Incident Map (Live Interactive Dashboard)](https://ElishevaK-00.github.io/Global-Cyber-Incident-Map/)
-A live-hosted geospatial intelligence application transforming raw infrastructure threat data into an active visual mapping dashboard. Categorizes international law metrics, attack vectors, and geopolitical asset breaches across precise coordinate points using responsive front-end map libraries.
-- **Skills:** Spatial Data Analytics, Data Modeling, Front-End Web Hosting, JavaScript/HTML Leaflet Architecture
+#### 4. [Algorithmic Backtester](https://github.com/elishevak-00/Algorithmic-Backtester)
+An object-oriented transaction simulation environment testing a rule-based moving average crossover strategy (50-day vs. 200-day SMA) over historical horizons to benchmark alpha production, beta exposure, and drawdowns against a passive market index.
+- **Skills:** Execution Logic, Strategy Analytics, Benchmark Backtesting, Risk Parameters
 
 ---
 
-### 🏛️ Leadership & Involvement Highlights
-- **President / Vice President**, Financial Management Association
-- **President**, Hofstra University Tax Society (Coordinated 70 volunteers / 600+ IRS-VITA returns)
-- **Junior Analyst**, Student Managed Investment Fund
-- **Member**, Rabinowitz Honors College & Dean's Business Scholars
+### 🏛️ Leadership & Campus Involvement
+- **President / Vice President**, *Financial Management Association*
+- **President**, *Hofstra University Tax Society* (Coordinated 70 volunteers / 600+ IRS-VITA returns)
+- **Junior Analyst**, *Student Managed Investment Fund*
+- **Member**, *Rabinowitz Honors College & Dean's Business Scholars*
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/elisheva-k-60336b31b)
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/elisheva-k-60336b31b](https://www.linkedin.com/in/elisheva-k-60336b31b)
 
 <!--
 **ElishevaK-00/ElishevaK-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
