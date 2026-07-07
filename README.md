@@ -22,19 +22,23 @@ I am an Honors College student at Hofstra University’s Zarb School of Business
 
 ### 📁 Featured Engineering Deployments
 
-#### 1. [Quantitative Portfolio Optimizer](https://github.com/elishevak-00/Quant-Portfolio-Optimizer)
+#### 1. [Black-Scholes Option Pricing & Greeks Simulator (Live Interactive Dashboard)](https://elishevak-00.github.io/black-scholes-dashboard/)
+A real-time mathematical simulation environment calculating theoretical continuous options premiums ($C, P$) and asset risk sensitivities (The Greeks: $\Delta, \Gamma, \nu, \Theta$). Programmed via multi-precision polynomial algorithms to model complex option volatility smiles and asset pricing curves natively on the client-side browser.
+- **Skills:** Client-Side JavaScript, Stochastic Calculus Implementations, Quantitative Risk Parameter Styling
+
+#### 2. [Quantitative Portfolio Optimizer](https://github.com/elishevak-00/Quant-Portfolio-Optimizer)
 An analytics engine utilizing matrix operations (Linear Algebra) to process historical multi-asset data vectors, calculate a rolling annualized covariance matrix, and locate optimal weight parameters maximizing a portfolio's Sharpe Ratio.
 - **Skills:** Python, Pandas, NumPy, Empirical Optimization Metrics, Matrix Multiplication
 
-#### 2. [Global Cyber Incident Map (Live Interactive Dashboard)](https://elishevak-00.github.io/Global-Cyber-Incident-Map/)
+#### 3. [Global Cyber Incident Map (Live Interactive Dashboard)](https://elishevak-00.github.io/Global-Cyber-Incident-Map/)
 A live-hosted geospatial intelligence application transforming raw infrastructure threat data and legal tiers into an active visual mapping engine. Features dynamic, color-coded parametric markers tracking geopolitical cyber events.
 - **Skills:** Spatial Data Analytics, Data Modeling, Front-End Web Deployment, Leaflet.js
 
-#### 3. [Financial Time-Series Forecasting](https://github.com/elishevak-00/Financial-Time-Series-Forecasting)
+#### 4. [Financial Time-Series Forecasting](https://github.com/elishevak-00/Financial-Time-Series-Forecasting)
 A data analytics script focusing on dynamic risk estimation. Processes raw historical asset pricing into continuous log returns and applies a moving 21-day standard deviation window to track changing asset volatilities.
 - **Skills:** Statistical Estimation, Data Wrangling, Volatility Mapping, Pandas
 
-#### 4. [Algorithmic Backtester](https://github.com/elishevak-00/Algorithmic-Backtester)
+#### 5. [Algorithmic Backtester](https://github.com/elishevak-00/Algorithmic-Backtester)
 An object-oriented transaction simulation environment testing a rule-based moving average crossover strategy (50-day vs. 200-day SMA) over historical horizons to benchmark alpha production, beta exposure, and drawdowns against a passive market index.
 - **Skills:** Execution Logic, Strategy Analytics, Benchmark Backtesting, Risk Parameters
 
