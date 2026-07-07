@@ -2,7 +2,7 @@
 
 I am an Honors College student at Hofstra University’s Zarb School of Business, pursuing a dual major in Business Analytics and Accounting, minoring in Finance (Cumulative GPA: 3.96 | Major GPA: 4.0). Driven by the execution logic of empirical asset pricing, market microstructure, and systematic risk distribution, I am actively pairing my rigorous business acumen with advanced statistical estimation, quantitative modeling, and algorithmic frameworks to prepare for graduate-level work in quantitative finance.
 
-🌐 **Professional Hub:** [Explore My Live Portfolio Website Dashboard](https://elishevak-00.github.io/)
+🌐 **Professional Hub:** [Explore My Live Portfolio Website Dashboard](https://elishevak-00.github.io/
 
 ---
 
