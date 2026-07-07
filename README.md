@@ -16,17 +16,21 @@ I am an Honors College student at Hofstra University’s Zarb School of Business
 
 ## 📁 Featured Quantitative Projects
 
-### 1. [Quantitative Portfolio Optimizer](https://github.com/YOUR-USERNAME-HERE/Quant-Portfolio-Optimizer)
+### 1. [Quantitative Portfolio Optimizer](https://github.com/ElishevaK-00/Quant-Portfolio-Optimizer)
 An analytics environment utilizing matrix math (Linear Algebra) to compound historical multi-asset data, map an annualized covariance matrix, and find the optimal asset weightings maximizing the portfolio's Sharpe Ratio.
 - **Skills:** Python, Pandas, NumPy, Matrix Multiplication
 
-### 2. [Financial Time-Series Forecasting](https://github.com/YOUR-USERNAME-HERE/Financial-Time-Series-Forecasting)
+### 2. [Financial Time-Series Forecasting](https://github.com/ElishevaK-00/Financial-Time-Series-Forecasting)
 A data analytics script focusing on dynamic risk estimation. The script processes raw historical price changes into log returns and applies a rolling 21-day standard deviation window to track changing asset volatility.
 - **Skills:** Statistical Estimation, Data Cleaning, Volatility Mapping
 
-### 3. [Algorithmic Backtester](https://github.com/YOUR-USERNAME-HERE/Algorithmic-Backtester)
+### 3. [Algorithmic Backtester](https://github.com/ElishevaK-00/Algorithmic-Backtester)
 An algorithmic execution simulation environment testing a rule-based moving average crossover strategy (50-day vs. 200-day Simple Moving Average) over a multi-year horizon to benchmark alpha production and drawdowns against a passive market index.
 - **Skills:** Execution Logic, Strategy Analysis, Benchmark Backtesting
+
+### 4. [Global Cyber Incident Map (Live Interactive Dashboard)](https://ElishevaK-00.github.io/Global-Cyber-Incident-Map/)
+A live-hosted geospatial intelligence application transforming raw infrastructure threat data into an active visual mapping dashboard. Categorizes international law metrics, attack vectors, and geopolitical asset breaches across precise coordinate points using responsive front-end map libraries.
+- **Skills:** Spatial Data Analytics, Data Modeling, Front-End Web Hosting, JavaScript/HTML Leaflet Architecture
 
 ---
 
