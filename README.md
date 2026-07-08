@@ -30,15 +30,24 @@ A real-time mathematical simulation environment calculating theoretical continuo
 An analytics engine utilizing matrix operations (Linear Algebra) to process historical multi-asset data vectors, calculate a rolling annualized covariance matrix, and locate optimal weight parameters maximizing a portfolio's Sharpe Ratio.
 - **Skills:** Python, Pandas, NumPy, Empirical Optimization Metrics, Matrix Multiplication
 
-#### 3. [Global Cyber Incident Map (Live Interactive Dashboard)](https://elishevak-00.github.io/Global-Cyber-Incident-Map/)
+### 3. [Midnight Madness: Custom 3D Racing Engine]
+I built a fully functional 3D arcade racing game from scratch in the browser using **Three.js** and vanilla JavaScript. Instead of using a pre-built physics engine, I engineered custom collision and tracking systems to handle high-speed 3D math.
+
+- **Dead-Reckoning Track Physics:** Engineered a localized mathematical integration system that tracks vehicle position on a massive `CatmullRomCurve3` circuit, preventing clipping and overlap glitches.
+- **Continuous Vector Projection:** Built a custom collision detection system that projects the car's coordinates against smooth mathematical boundaries, allowing for buttery-smooth wall scraping at 60+ FPS without bouncing or physics loop crashes.
+- **Autonomous AI Grid:** Programmed an 8-car starting grid featuring AI rivals with unique offset behaviors and curve-dampening logic.
+- **Cinematic DOM UI:** Designed a retro-arcade overlay with live 3D garage rendering and dynamic HUD elements seamlessly integrated over the WebGL canvas.
+- **Skills:** JavaScript, Three.js, HTML5 Canvas, CSS3, WebGL
+
+#### 4. [Global Cyber Incident Map (Live Interactive Dashboard)](https://elishevak-00.github.io/Global-Cyber-Incident-Map/)
 A live-hosted geospatial intelligence application transforming raw infrastructure threat data and legal tiers into an active visual mapping engine. Features dynamic, color-coded parametric markers tracking geopolitical cyber events.
 - **Skills:** Spatial Data Analytics, Data Modeling, Front-End Web Deployment, Leaflet.js
 
-#### 4. [Financial Time-Series Forecasting](https://github.com/elishevak-00/Financial-Time-Series-Forecasting)
+#### 5. [Financial Time-Series Forecasting](https://github.com/elishevak-00/Financial-Time-Series-Forecasting)
 A data analytics script focusing on dynamic risk estimation. Processes raw historical asset pricing into continuous log returns and applies a moving 21-day standard deviation window to track changing asset volatilities.
 - **Skills:** Statistical Estimation, Data Wrangling, Volatility Mapping, Pandas
 
-#### 5. [Algorithmic Backtester](https://github.com/elishevak-00/Algorithmic-Backtester)
+#### 6. [Algorithmic Backtester](https://github.com/elishevak-00/Algorithmic-Backtester)
 An object-oriented transaction simulation environment testing a rule-based moving average crossover strategy (50-day vs. 200-day SMA) over historical horizons to benchmark alpha production, beta exposure, and drawdowns against a passive market index.
 - **Skills:** Execution Logic, Strategy Analytics, Benchmark Backtesting, Risk Parameters
 
