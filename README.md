@@ -30,7 +30,7 @@ A real-time mathematical simulation environment calculating theoretical continuo
 An analytics engine utilizing matrix operations (Linear Algebra) to process historical multi-asset data vectors, calculate a rolling annualized covariance matrix, and locate optimal weight parameters maximizing a portfolio's Sharpe Ratio.
 - **Skills:** Python, Pandas, NumPy, Empirical Optimization Metrics, Matrix Multiplication
 
-### 3. [Midnight Madness: Custom 3D Racing Engine]
+### 3. [Midnight Madness: Custom 3D Racing Engine](https://elishevak-00.github.io/3d-racing-simulator/)
 I built a fully functional 3D arcade racing game from scratch in the browser using **Three.js** and vanilla JavaScript. Instead of using a pre-built physics engine, I engineered custom collision and tracking systems to handle high-speed 3D math.
 
 - **Dead-Reckoning Track Physics:** Engineered a localized mathematical integration system that tracks vehicle position on a massive `CatmullRomCurve3` circuit, preventing clipping and overlap glitches.
